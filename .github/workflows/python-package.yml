@@ -39,4 +39,3 @@ jobs:
         run: |
           python3 auto.py --username=$mxl_username --password=$mxl_password
           python3 auto.py --username=$ljt_username --password=$ljt_password
-          python3 auto.py --username=$zsw_username --password=$zsw_password
